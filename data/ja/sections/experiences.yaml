@@ -52,17 +52,17 @@ experiences:
   - company:
       name: AMIDC
       url: https://meidenid.com
-      overview: 情報デザイン部に入部した。
-      designation: 情報デザイン部 入部
+      overview: 男子バレー部に入部した。
+      designation: 男子バレー部 入部
       start: "2020.07"
       end: "2022.10"
 
   - company:
-      designation: 名電高校入学
+      designation: 高蔵寺高校入学
       name: Meiden H.S.
       url: "https://www.meiden.ed.jp"
       start: "2020.04"
       end: "2023.03"
       location: Nagoya
-      overview: 情報科学科に入学した。
+      overview: 普通科に入学した。
       fill: true
